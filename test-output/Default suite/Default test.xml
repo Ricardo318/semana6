@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-2SBIQ2D" failures="0" tests="1" name="Selenium.NewTest" time="0.031" errors="0" timestamp="14 Aug 2022 21:04:25 GMT">
+  <testcase classname="Selenium.NewTest" name="f" time="0.015"/>
+</testsuite>
